@@ -16,6 +16,8 @@ Thi is the deployment text
 
 ## How to contribute
 
+Please fork this repo and then issue Pull requests for review.
+
 ## Copyright
 
 2020 Git.Training.
