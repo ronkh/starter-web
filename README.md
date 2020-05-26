@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple project for showing how to use Git and Github together
-Adding a line here ... then more changes from myfeature branch too.
+Adding a line here ...Adding emergency fix after our stash 
 
 ## Introduction
 
