@@ -8,7 +8,11 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
+This is the purpose text
+
 ## Deployment
+
+Thi is the deployment text
 
 ## How to contribute
 
